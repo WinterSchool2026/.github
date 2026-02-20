@@ -6,8 +6,5 @@ The ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes, i
 
 All Winter School material is organized in dedicated repositories:
 
-- 🔹 [Challenges Overview](https://github.com/WinterSchool2026/00-challenges_overview)  
-  Access all hands-on challenge repositories and instructions.
-
-- 🔹 [Zero-to-Hero Sessions](https://github.com/WinterSchool2026/00-zero_to_hero)  
-  Introductory sessions designed to get you up to speed with essential tools and concepts.
+🔹 [Challenges Overview](https://github.com/WinterSchool2026/00-challenges_overview)  
+🔹 [Zero-to-Hero Sessions](https://github.com/WinterSchool2026/00-zero_to_hero)  
