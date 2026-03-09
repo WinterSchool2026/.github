@@ -3,8 +3,7 @@
 The **ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes**, is a 5-day hands-on program hosted by the **MeDiTwin** and **AI4PEX** projects, bringing together leading experts and early-career researchers to explore the latest advances in artificial intelligence for extreme event analysis. The school offers a combination of theoretical lectures, hands-on training, and real-world applications, focusing on cutting-edge AI techniques to improve modelling, understanding, and impact assessment of Earth hazards and climate extremes.
 
 ## Programme
-The detailed programme of the winter school is available here:
-[https://meditwin-project.eu/ai4eo-winter-school/#programme-](https://meditwin-project.eu/ai4eo-winter-school/#programme-)
+The detailed [winter school programme](https://meditwin-project.eu/ai4eo-winter-school/#programme-) is available on the official website.
 
 ## Material
 
