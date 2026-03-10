@@ -10,5 +10,5 @@ The **ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes*
 All Winter School material is organized in dedicated repositories:
 
 - [![Keynote Presentations](https://img.shields.io/badge/Keynote-Presentations-yellow?logo=github)](https://github.com/WinterSchool2026/00-keynote-overview)
-- [![Zero-to-Hero Sessions](https://img.shields.io/badge/Zero%20to%20Hero-Sessions-green?logo=github)](https://github.com/WinterSchool2026/00-zero-to-hero-overview)
-- [![Challenges Overview](https://img.shields.io/badge/Challenges-Overview-red?logo=github)](https://github.com/WinterSchool2026/00-challenges-overview)
+- [![Zero-to-Hero Sessions](https://img.shields.io/badge/Zero%20to%20Hero-Sessions-blue?logo=github)](https://github.com/WinterSchool2026/00-zero-to-hero-overview)
+- [![Challenges Overview](https://img.shields.io/badge/Challenges-Overview-green?logo=github)](https://github.com/WinterSchool2026/00-challenges-overview)
