@@ -6,7 +6,6 @@ The **ELLIS Winter School 2026: AI for Earth System, Hazards & Climate Extremes*
 [![Programme Page 1](https://raw.githubusercontent.com/WinterSchool2026/.github/main/assets/Detailed-Timetable-1_v2.jpg)](https://meditwin-project.eu/wp-content/uploads/2026/03/Detailed-Timetable-1.pdf)
 [![Programme Page 2](https://raw.githubusercontent.com/WinterSchool2026/.github/main/assets/Detailed-Timetable-2_v2.jpg)](https://meditwin-project.eu/wp-content/uploads/2026/03/Detailed-Timetable-1.pdf)
 
-
 ## Material
 
 All Winter School material is organized in dedicated repositories:
