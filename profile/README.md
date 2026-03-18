@@ -13,3 +13,9 @@ All Winter School material is organized in dedicated repositories:
 - [![Keynote Presentations](https://img.shields.io/badge/Keynote-Presentations-yellow?logo=github)](https://github.com/WinterSchool2026/00-keynote-overview)
 - [![Zero-to-Hero Sessions](https://img.shields.io/badge/Zero%20to%20Hero-Sessions-blue?logo=github)](https://github.com/WinterSchool2026/00-zero-to-hero-overview)
 - [![Challenges Overview](https://img.shields.io/badge/Challenges-Overview-green?logo=github)](https://github.com/WinterSchool2026/00-challenges-overview)
+
+## Private Sharepoint
+You can find winter school photographs and non-public keynote presentations in our [private shared point](https://teams.cloud.microsoft/l/channel/19%3AW9EgXLiWfAx23QxuFC1ZhkDv5gMbBStefsDH6Y1ale41%40thread.tacv2/General?groupId=c9a30b63-6569-4017-8029-a9283d8418f7&tenantId=075e0cb3-752a-4320-b367-6d08b7918c40).
+
+For issues regarding access to the private shared point contact: 
+gspyres@mail.ntua.gr
